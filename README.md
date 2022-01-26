@@ -4,7 +4,7 @@
 
 ## I'm a programmer
 
-- 💬 Ask me about ......c,cpp.
+- 💬 Ask me about c,cpp.
 
 - 📫 Reach me at vishakot03@gmail.com
 
